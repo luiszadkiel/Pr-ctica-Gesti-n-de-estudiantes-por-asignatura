@@ -1,0 +1,14 @@
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.AssemblyInfoInputs.cache
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.AssemblyInfo.cs
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.csproj.CoreCompileInputs.cache
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\bin\Debug\net8.0\GestionEstudiantes-practica.exe
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\bin\Debug\net8.0\GestionEstudiantes-practica.deps.json
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\bin\Debug\net8.0\GestionEstudiantes-practica.runtimeconfig.json
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\bin\Debug\net8.0\GestionEstudiantes-practica.dll
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\bin\Debug\net8.0\GestionEstudiantes-practica.pdb
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.dll
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\refint\GestionEstudiantes-practica.dll
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.pdb
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\GestionEstudiantes-practica.genruntimeconfig.cache
+C:\Users\zadkiel\source\repos\GestionEstudiantes-practica\GestionEstudiantes-practica\obj\Debug\net8.0\ref\GestionEstudiantes-practica.dll
