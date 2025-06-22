@@ -18,17 +18,8 @@ Asignatura: Clase que encapsula la lógica de gestión de grupos de estudiantes 
 GestorEstudiantes: Controlador principal que coordina todas las operaciones del sistema.
 
 Estructura del Proyecto
-GestionEstudiantes/
-├── Models/
-│   ├── OperationResult.cs
-│   ├── Estudiante.cs
-│   ├── EstudiantePresencial.cs
-│   ├── EstudianteDistancia.cs
-│   └── Asignatura.cs
-├── Services/
-│   └── GestorEstudiantes.cs
-├── Program.cs
-└── README.md
+
+<img width="217" alt="Screenshot 2025-06-21 224030" src="https://github.com/user-attachments/assets/48fcf28e-f216-464b-a302-378897b8623c" />
 
 
 Funcionalidades del Sistema
