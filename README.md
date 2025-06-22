@@ -5,10 +5,8 @@ El sistema está diseñado para manejar tanto estudiantes presenciales como a di
 Objetivos Académicos
 El desarrollo de este proyecto busca aplicar los siguientes conceptos fundamentales de la programación orientada a objetos:
 
-Herencia: Implementación de una jerarquía de clases con una clase base abstracta
-Polimorfismo: Sobrescritura de métodos para comportamientos específicos
-Encapsulamiento: Protección de datos y exposición controlada de funcionalidades
-Abstracción: Modelado de entidades del mundo real en estructuras de código
+<img width="675" alt="Screenshot 2025-06-21 223126" src="https://github.com/user-attachments/assets/581b3715-528b-48a0-8094-4e9b9e581372" />
+
 
 Arquitectura del Sistema
 Diseño de Clases
@@ -18,6 +16,7 @@ Estudiante: Clase abstracta que define la estructura base para todos los tipos d
 EstudiantePresencial y EstudianteDistancia: Clases derivadas que implementan comportamientos específicos para cada modalidad de estudio.
 Asignatura: Clase que encapsula la lógica de gestión de grupos de estudiantes por materia.
 GestorEstudiantes: Controlador principal que coordina todas las operaciones del sistema.
+
 Estructura del Proyecto
 GestionEstudiantes/
 ├── Models/
@@ -30,6 +29,8 @@ GestionEstudiantes/
 │   └── GestorEstudiantes.cs
 ├── Program.cs
 └── README.md
+
+
 Funcionalidades del Sistema
 Gestión de Estudiantes por Grupo
 El sistema permite agregar estudiantes a grupos específicos dentro de cada asignatura. Esta funcionalidad implementa el patrón de herencia, donde cada estudiante puede ser clasificado como presencial o a distancia, manteniendo información común pero con comportamientos diferenciados.
